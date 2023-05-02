@@ -12,7 +12,7 @@ It focus on PC component and purposely to help any PC builder buy their remainin
 # What am I gonna do next
 
 I am gonna fix everything (if i could) as I can, So that I can relax looking at my 'finish' project.
-That will be on my next respisotary.
+That will be on my next repository.
 
 # Completed version file (GDrive)
 
